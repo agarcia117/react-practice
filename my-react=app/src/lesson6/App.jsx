@@ -1,7 +1,3 @@
-// import Card from "./Card"
-// import Button from "./Button";
-// import UserGreeting from "./UserGreeting";
-// import Student from "./Student";
 import List from './List.jsx'
 
 function App() {
@@ -13,10 +9,10 @@ function App() {
                   {id: 5, name: "pineapple", calories: 37}];
   
   const vegetables = [{id: 6, name: "potatoes", calories: 110},
-                  {id: 7, name: "celery", calories: 15},
-                  {id: 8, name: "carrots", calories: 25},
-                  {id: 9, name: "corn", calories: 63},
-                  {id: 10, name: "broccoli", calories: 50}];
+                      {id: 7, name: "celery", calories: 15},
+                      {id: 8, name: "carrots", calories: 25},
+                      {id: 9, name: "corn", calories: 63},
+                      {id: 10, name: "broccoli", calories: 50}];
 
   return(
     <>

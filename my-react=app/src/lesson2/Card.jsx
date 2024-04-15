@@ -1,4 +1,4 @@
-import profilePic from './assets/Dragon_ball.jpg'
+import profilePic from '../assets/Dragon_ball.jpg'
 
 function Card() {
   return (
