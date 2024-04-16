@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 
-
+// How to handle multiple setCounts in one method
 function MyComponent() {
   const [count, setCount] = useState(0);
 
