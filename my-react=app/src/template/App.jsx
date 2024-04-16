@@ -1,3 +1,4 @@
+import MyComponent from "./MyComponent";
 
 function App() {
 

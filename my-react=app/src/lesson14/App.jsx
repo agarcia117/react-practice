@@ -1,9 +1,7 @@
-import React, { useState } from "react"
+import MyComponent from "./MyComponent";
 
-function MyComponent() {
+function App() {
   
-  
-
   return(
     <div>
       <MyComponent></MyComponent>
